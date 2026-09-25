@@ -1,0 +1,8 @@
+{
+  "name": "Remix LIA ",
+  "description": "Media pembelajaran interaktif literasi membaca dan jelajah dunia membaca untuk siswa kelas 6 SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
